@@ -1,0 +1,15 @@
+{
+  "name": "solar_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://wisekrakr.github.io/solar_system_3d",
+  "scripts": {
+    "deploy": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wisekrakr",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
